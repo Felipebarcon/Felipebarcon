@@ -1,19 +1,19 @@
-🧑‍💻 Developer Full-Stack
+🧑‍💻 Full-Stack Developer 
 
-👨‍🎓 Économiste d'entreprise 
+👨‍🎓 Business Economist
 
-🖥 Maîtrise des technologies JavaScript, HTML, CSS, Ruby 
+🖥 Expertise of JavaScript, HTML, CSS, Ruby 
  On Rail, SQL, Git, Heroku
 
-📜 Actuellement en formation sur les langages React, Vue et PHP
+📜 Currently training on React, Vue and PHP
 
-🏦 Des années d'expérience bancaire et une expertise de la relation clientèle
+🏦 9 Years of banking experience and expertise in customer relations
 
-📈 Passionné par les nouvelles technologies
+📈 Passionate about new technologies
 
-🔥 Crypto enthousiaste 
+🔥 Crypto enthusiast 
 
-📸 Photographe et formateur
+📸 Photographer
 
 <!---
 Felipebarcon/Felipebarcon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
