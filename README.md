@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/felipe-barcon/**
 
-- 📄 Know about my experiences [9 Years of banking experience and expertise in customer relations, Business Economist, passionate about new technologies and crypto enthusiast !](9 Years of banking experience and expertise in customer relations, Business Economist, passionate about new technologies and crypto enthusiast !)
+- 📄 Know about my experiences [9 Years of banking experience and expertise in customer relations, Business Economist, passionate about new technologies and crypto enthusiast !]
 
 - ⚡ Fun fact **I'm a very good photographer !**
 
