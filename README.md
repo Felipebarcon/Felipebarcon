@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/felipebarcon](https://troopl.com/felipebarcon)
 
-- 📫 How to reach me **https://www.linkedin.com/in/felipe-barcon/**
+- 📫 How to reach me : **https://www.linkedin.com/in/felipe-barcon/**
 
-- 📄 Know about my experiences 9 Years of banking experience and expertise in customer relations, Business Economist Graduate, passionate about new technologies and crypto enthusiast !
+- 📄 9 Years of banking experience and expertise in customer relations, Business Economist Graduate, passionate about new technologies and crypto enthusiast !
 
 - ⚡ Fun fact **I'm a very good photographer !**
 
