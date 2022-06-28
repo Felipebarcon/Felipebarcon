@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **personnal projects to develop my portfolio**
 
-- 🌱 I’m currently learning **React, Vue.js, PHP, Symphony and Python**
+- 🌱 I’m currently learning **React, Angular.js, and Typescript **
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/felipebarcon](https://troopl.com/felipebarcon)
 
