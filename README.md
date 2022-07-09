@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felipe Barcon</h1>
 <h3 align="center">A passionate front-end developer from Switzerland</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipebarcon" alt="felipebarcon" /></a> </p>
-
 - 🌱 I’m currently learning **React, Angular.js, and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/felipebarcon](https://troopl.com/felipebarcon)
@@ -24,9 +22,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipebarcon&" alt="felipebarcon" /></p>
 
-
-
-<!---
-Felipebarcon/Felipebarcon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
